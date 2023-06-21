@@ -1,0 +1,1 @@
+.base-icon{display:inline-flex;justify-content:center;align-items:center;height:1em;width:1em;fill:currentColor}.base-icon.spin{animation:spinning 1s cubic-bezier(0,0,1,1) infinite}.base-icon svg{height:1em;width:1em}@keyframes spinning{0%{transform:rotate(0)}to{transform:rotate(360deg)}}
